@@ -19,8 +19,8 @@
 
 /* Colors */
 :root {
-  --color-default: #fafafa;
-  --color-primary: #27a776;
+  --color-default: #050008;
+  --color-primary: #8e7577;
   --color-secondary: #161718;
 }
 
@@ -1229,7 +1229,7 @@ h6 {
 }
 
 .hero .btn-get-started:hover {
-  background: #2cbc85;
+  background: #503536;
 }
 
 @media (max-width: 768px) {
