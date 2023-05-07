@@ -1181,7 +1181,6 @@ h6 {
   position: relative;
   padding: 140px 0 60px 0;
   text-align: center;
-  align-items: center;
   align-content: center;
 }
 
@@ -1223,13 +1222,12 @@ h6 {
   font-size: 14px;
   display: inline-block;
   padding: 12px 40px;
-  border-radius: 3px;
+  border-radius: 4px;
   letter-spacing: 1px;
   text-transform: uppercase;
   transition: 0.3s;
   color: #fff;
   background: var(--color-primary);
-  size: 50;
 }
 
 .hero .btn-get-started:hover {
