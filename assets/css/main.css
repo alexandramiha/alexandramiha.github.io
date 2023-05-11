@@ -135,7 +135,7 @@ h6 {
 }
 
 .page-header .cta-btn:hover {
-  background: #2cbc85;
+  background: #ffc107;
 }
 
 /*--------------------------------------------------------------
@@ -162,7 +162,7 @@ h6 {
 }
 
 .scroll-top:hover {
-  background: rgba(39, 167, 118, 0.8);
+  background: f(39, 167, 118, 0.8);
   color: #fff;
 }
 
