@@ -634,14 +634,14 @@ h6 {
 }
 
 .testimonials .testimonial-item .stars i {
-  color: #ffc107;
+  color: #ff077b;
   margin: 0 1px;
 }
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
   border-radius: 50%;
-  border: 5px solid #474a4d;
+  border: 5px solid #ffc107;
   margin: 0 auto;
 }
 
