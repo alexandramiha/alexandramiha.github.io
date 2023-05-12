@@ -98,6 +98,11 @@ h6 {
 # Page Header
 --------------------------------------------------------------*/
 .page-header h1 { 
+  font-size: 130px;
+  font-weight: 100
+  color: #fff ;
+  font-family: var(--font-secondary)
+}
 
 .page-header h2 {
   font-size: 56px;
