@@ -135,15 +135,19 @@ h6 {
   background: var(--color-primary);
 }
 button {
+  font-family: var(--font-primary);
+  font-weight: 400;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  letter-spacing: 1px;
   font-size: 16px;
   cursor: pointer;
   float: left;
-  background-color: rgb(162, 128, 128); 
-  text color:white; 
+  transition: 0.3s;
+  color: #fff;
+  background: var(--color-primary);
   border: 2px solid}
 
 .page-header .cta-btn:hover {
