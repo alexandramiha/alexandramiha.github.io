@@ -152,7 +152,10 @@ button {
 .page-header .cta-btn:hover {
   background: #ffc107;
 }
-
+hr {
+	width:30%; 
+	height:2 px;
+	text-align: right;}
 /*--------------------------------------------------------------
 # Scroll top button
 --------------------------------------------------------------*/
