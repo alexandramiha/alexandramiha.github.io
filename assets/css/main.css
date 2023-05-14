@@ -148,7 +148,8 @@ button {
   text-transform: uppercase;
   transition: 0.3s;
   float: left;
-  background-color: rgb(162, 128, 128); 
+  color: #fff;
+  text-colour:var(--font-primary) 
   border: 2px solid}
 
 .page-header .cta-btn:hover {
