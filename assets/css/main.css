@@ -100,9 +100,8 @@ h6 {
 .page-header h1 { 
   font-size: 130px;
   font-weight: 100
-  color: #fff ;
-  font-family: var(--font-secondary)
-}
+  color: #fff;
+  font-family: var(--font-secondary); }
 
 .page-header h2 {
   font-size: 56px;
@@ -141,7 +140,6 @@ button {
   text-decoration: none;
   font-weight: 400;
   font-size: 14px;
-  display: inline-block;
   font-size: 16px;
   cursor: pointer;
   letter-spacing: 1px;
@@ -149,7 +147,6 @@ button {
   transition: 0.3s;
   float: left;
   background-color: rgb(162, 128, 128);
-  text-colour:var(--font-primary) 
   border: 2px solid}
 
 .page-header .cta-btn:hover {
