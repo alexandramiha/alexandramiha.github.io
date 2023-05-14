@@ -143,7 +143,8 @@ button {
   cursor: pointer;
   float: left;
   background-color: brown; 
-  color:black;}
+  color:black; 
+  border: 2px solid #4CAF50;}
 
 .page-header .cta-btn:hover {
   background: #ffc107;
