@@ -142,9 +142,9 @@ button {
   font-size: 16px;
   cursor: pointer;
   float: left;
-  background-color: brown; 
+  background-color: rgb(151, 66, 66); 
   color:black; 
-  border: 2px solid #4CAF50;}
+  border: 2px solid}
 
 .page-header .cta-btn:hover {
   background: #ffc107;
